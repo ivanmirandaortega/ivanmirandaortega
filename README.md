@@ -4,7 +4,7 @@ My name is Ivan and I am a software developer with a background in web design. A
 
 - 🔭 I’m currently working on front end development
 - 🌱 I’m currently learning full stack development
-- 👯 I’m looking to collaborate on either front end development or full stack development
+- 👯 I’m looking to collaborate on either front end or full stack development
 - 🤔 I’m looking for help with Augmented Reality 
 - 💬 Ask me about design, technology, and culture
 - 📫 How to reach me: imirandaortega.pd@gmail.com
