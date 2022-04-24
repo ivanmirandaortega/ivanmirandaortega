@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ivan and I am 
+My name is Ivan and I am a software developer with a background in web design. As a first-generation Latino immigrant, I’ve learned to overcome most of my struggles by becoming resourceful, curious, and resilient. Growing up in both an impoverished rural rancho in México and a low-income inner-city neighborhood in South Central Los Angeles has empowered me to solve problems from different perspectives. I like to leverage design and technology in order to find innovative solutions that positively impact society.
 
 - 🔭 I’m currently working on front end development
 - 🌱 I’m currently learning full stack development
