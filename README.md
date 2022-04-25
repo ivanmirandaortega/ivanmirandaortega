@@ -8,7 +8,7 @@ My name is Ivan and I am a software developer with a background in web design. A
 
 - 🤝 I’m looking to collaborate on either front end or full stack development
 
-- 🤔 I’m looking for help with Augmented Reality 
+- 🤔 I’m interested in learning more about Augmented Reality 
 
 - 💬 Ask me about design, technology, and culture
 
