@@ -28,7 +28,7 @@ My name is Ivan and I am a software developer with a background in web design. A
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)$nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&logoColor=336791)&nbsp;
 ![Mongoose](https://img.shields.io/badge/-mongoose-05122A?style=flat&logo=mongoose&logoColor=336791)&nbsp;
