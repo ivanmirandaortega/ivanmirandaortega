@@ -1,6 +1,6 @@
 # Ivan Miranda Ortega | Software Engineer 👋
 
-My name is Ivan and I am a software developer with a background in web design. As a first-generation Latino immigrant, I’ve learned to overcome most of my struggles by becoming resourceful, curious, and resilient. Growing up in both an impoverished rural rancho in México and a low-income inner-city neighborhood in South Central Los Angeles has empowered me to solve problems from different perspectives. I like to leverage design and technology in order to find innovative solutions that positively impact society.
+I am a full-stack software engineer with a background in web design and a drive to create innovative user friendly technology. My passion for harnessing tech and design has empowered me to develop my skills to build tools and services that produce exceptional products. My strengths with empathy, creativity, and attention to detail amplifies human-centered approaches while delivering vital business needs.
 
 - 🔭 I’m currently working on front end development
  
