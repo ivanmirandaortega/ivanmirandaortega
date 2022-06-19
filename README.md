@@ -1,4 +1,4 @@
-### Ivan Miranda Ortega | Software Engineer 👋
+# Ivan Miranda Ortega | Software Engineer 👋
 
 My name is Ivan and I am a software developer with a background in web design. As a first-generation Latino immigrant, I’ve learned to overcome most of my struggles by becoming resourceful, curious, and resilient. Growing up in both an impoverished rural rancho in México and a low-income inner-city neighborhood in South Central Los Angeles has empowered me to solve problems from different perspectives. I like to leverage design and technology in order to find innovative solutions that positively impact society.
 
@@ -17,6 +17,17 @@ My name is Ivan and I am a software developer with a background in web design. A
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: Outside of tech, I am also passionate about filmmaking and am producing an independent feature film! 
+
+## Technical Skills 
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/-redux-05122A?style=flat&logo=redux&logoColor=008080)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&logoColor=336791)&nbsp;
