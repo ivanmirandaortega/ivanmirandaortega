@@ -31,7 +31,7 @@ I am a full-stack software engineer with a background in web design and a drive 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&logoColor=336791)&nbsp;
-![Mongoose](https://img.shields.io/badge/-mongoose-05122A?style=flat&logo=Mongoose&logoColor=336791)&nbsp;
+![Mongoose](https://img.shields.io/badge/-mongoose-05122A?style=flat&logo=mongoose&logoColor=336791)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS&logoColor=777BB4)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
