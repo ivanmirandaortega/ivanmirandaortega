@@ -16,8 +16,6 @@ I am a full-stack software engineer with a background in web design and a drive 
 
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: Outside of tech, I am also passionate about filmmaking and am producing an independent feature film! 
-
 ## Technical Skills 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
