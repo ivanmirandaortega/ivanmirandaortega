@@ -1,4 +1,4 @@
-[<img src="https://ibb.co/kB0PpNc" />](banner)
+[<img src="<a href="https://ibb.co/kB0PpNc"><img src="https://i.ibb.co/sRQXh83/Dark-Purple-Simple-Abstract-Gamers-Linked-In-Banner.png" alt="Dark-Purple-Simple-Abstract-Gamers-Linked-In-Banner" border="0"></a>" />](banner)
 
 # Ivan Miranda Ortega | Software Engineer
 
