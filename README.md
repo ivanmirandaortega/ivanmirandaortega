@@ -1,4 +1,4 @@
-[<img src="https://ibb.co/kB0PpNc" />]
+[<img src="https://ibb.co/kB0PpNc" />](banner)
 
 # Ivan Miranda Ortega | Software Engineer
 
