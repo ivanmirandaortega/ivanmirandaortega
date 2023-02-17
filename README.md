@@ -10,7 +10,7 @@ I am a full-stack software engineer with a background in web design and a drive 
 
 - 🤝 I’m looking to collaborate on either front end or full stack development
 
-- 🤔 I’m interested in learning more about Augmented Reality 
+- 🤔 I’m interested in learning more about WebXR 
 
 - 💬 Ask me about design, technology, and culture
 
