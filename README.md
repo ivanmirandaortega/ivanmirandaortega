@@ -4,20 +4,6 @@
 
 I am a full-stack software engineer with a background in web design and a drive to create innovative user friendly technology. My passion for harnessing tech and design has empowered me to develop my skills to build tools and services that produce exceptional products. My strengths with empathy, creativity, and attention to detail amplifies human-centered approaches while delivering vital business needs.
 
-- 🔭 I’m currently working on front end development
- 
-- 🌱 I’m currently learning full stack development
-
-- 🤝 I’m looking to collaborate on either front end or full stack development
-
-- 🤔 I’m interested in learning more about WebXR 
-
-- 💬 Ask me about design, technology, and culture
-
-- 📫 How to reach me: imirandaortega.pd@gmail.com
-
-- 😄 Pronouns: he/him
-
 ## Technical Skills 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
